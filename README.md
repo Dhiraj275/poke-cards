@@ -75,8 +75,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Contact
 
 If you have any questions or feedback, feel free to contact me at [dhirajprajapati.co@gmail.com](mailto:dhirajprajapati.co@gmail.com).
-
 ---
 
 Thank you for checking out my project! I hope you enjoy using it as much as I enjoyed building it.
-```
